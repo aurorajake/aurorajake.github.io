@@ -16,6 +16,32 @@
 - 单元测试：PHPUnit/SimpleTest/Qunit
 - 云和开放平台：SAE/BAE/AWS/微博开放平台/微信应用开发
 
+
+
+喜欢Linux和Java。
+有互联网金融，电商系统一线开发经验和业务积累。
+掌握大型分布式系统开发流程，具备分布式系统开发经验，熟悉JAVA中间件，有Oracle，Dubbo，ZooKeeper，Nginx，Jersey，Redis，RocketMQ，tbSchedule，Spring，Mybatis的使用开发经验，对集群、负载均衡有相关经验。
+熟练使用IDEA、Eclipse、Maven、Git、SVN等开发管理工具。
+熟练使用Javascript，Jquery，Jsp，Ajax、Vuejs等相关技术或框架。
+熟练使用Struts2，Spring，hibernate、MyBatis等开源框架，阅读过Spring等源码和开发文档。
+熟练使用Oracle、MySql等数据库，能熟练编写复杂SQL语句、存储过程，自学MongoDB数据库。
+熟悉Tomcat、Nginx、Apache等多种应用和WEB服务器的安装配置和使用。
+熟悉SOA架构，有SOA架构系统设计和开发经验，能独立在Linux服务器上搭建一套整合SpringMVC、Dubbo、Zookeeper、Nginx的SOA服务架构。
+熟悉UML建模语言，如Visio 、PowerDesign。
+经常浏览stackoverflow、github等开源网站，喜欢阅读源码。
+有一定php、python、nodeJS开发经验。
+
+
+- Web开发：JAVA/PHP/python/nodeJS
+- Web框架：SpringMVC/Struts2
+- 前端框架：Bootstrap/AngularJS/EmberJS/HTML5/Cocos2dJS/ionic
+- 前端工具：Bower/Gulp/SaSS/LeSS/PhoneGap
+- 数据库相关：MySQL/PgSQL/PDO/SQLite
+- 版本管理、文档和自动化部署工具：Svn/Git/PHPDoc/Phing/Composer
+- 单元测试：PHPUnit/SimpleTest/Qunit
+- 云和开放平台：SAE/BAE/AWS/微博开放平台/微信应用开发
+
+
 ## 参考技能关键字
 
 本技能关键字列表是从最近招聘Java的数百份JD中统计出来的，括号中是出现的词频。如果你的简历要投递给有机器（简历分选系统）和不如机器（不懂技术的HR）筛选简历环节的地方，请一定从下边高频关键词中选择5～10个适合你自己的。
