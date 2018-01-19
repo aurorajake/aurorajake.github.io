@@ -5,41 +5,21 @@
 # 技能清单
 （我一般主张将技能清单写入到工作经历里边去。不过很难完整，所以有这么一段也不错）
 
-以下均为我熟练使用的技能
+以下均为常用的工具/技能
 
-- Web开发：PHP/Hack/Node
-- Web框架：ThinkPHP/Yaf/Yii/Lavaral/LazyPHP
-- 前端框架：Bootstrap/AngularJS/EmberJS/HTML5/Cocos2dJS/ionic
-- 前端工具：Bower/Gulp/SaSS/LeSS/PhoneGap
-- 数据库相关：MySQL/PgSQL/PDO/SQLite
-- 版本管理、文档和自动化部署工具：Svn/Git/PHPDoc/Phing/Composer
-- 单元测试：PHPUnit/SimpleTest/Qunit
-- 云和开放平台：SAE/BAE/AWS/微博开放平台/微信应用开发
-
-
-
-喜欢Linux和Java。
-有互联网金融，电商系统一线开发经验和业务积累。
-掌握大型分布式系统开发流程，具备分布式系统开发经验，熟悉JAVA中间件，有Oracle，Dubbo，ZooKeeper，Nginx，Jersey，Redis，RocketMQ，tbSchedule，Spring，Mybatis的使用开发经验，对集群、负载均衡有相关经验。
-熟练使用IDEA、Eclipse、Maven、Git、SVN等开发管理工具。
-熟练使用Javascript，Jquery，Jsp，Ajax、Vuejs等相关技术或框架。
-熟练使用Struts2，Spring，hibernate、MyBatis等开源框架，阅读过Spring等源码和开发文档。
-熟练使用Oracle、MySql等数据库，能熟练编写复杂SQL语句、存储过程，自学MongoDB数据库。
-熟悉Tomcat、Nginx、Apache等多种应用和WEB服务器的安装配置和使用。
-熟悉SOA架构，有SOA架构系统设计和开发经验，能独立在Linux服务器上搭建一套整合SpringMVC、Dubbo、Zookeeper、Nginx的SOA服务架构。
-熟悉UML建模语言，如Visio 、PowerDesign。
-经常浏览stackoverflow、github等开源网站，喜欢阅读源码。
-有一定php、python、nodeJS开发经验。
-
-
-- Web开发：JAVA/PHP/python/nodeJS
-- Web框架：SpringMVC/Struts2
-- 前端框架：Bootstrap/AngularJS/EmberJS/HTML5/Cocos2dJS/ionic
-- 前端工具：Bower/Gulp/SaSS/LeSS/PhoneGap
-- 数据库相关：MySQL/PgSQL/PDO/SQLite
-- 版本管理、文档和自动化部署工具：Svn/Git/PHPDoc/Phing/Composer
-- 单元测试：PHPUnit/SimpleTest/Qunit
-- 云和开放平台：SAE/BAE/AWS/微博开放平台/微信应用开发
+- 开发工具：IDEA/Eclipse/PhpStorm/PyCharm/WebStorm
+- 开发语言：JAVA/PHP/python/nodeJS
+- mvc框架：SpringMVC/Struts2
+- 前端框架：Javascript，Jquery，Jsp，Ajax、Vuejs
+- 数据库相关：MySQL/Oracle/MongoDB
+- 分布式缓存中间件：Redis/MemCache
+- 分布式消息中间件：RocketMQ/ActiveMq
+- 分布式一致性协调中间件：Zookeeper
+- web服务器：Nginx/Tomcat/Apache
+- 分布式job中间件：tbSchedule
+- RPC相关：Dubbo/Jersey
+- 版本管理、文档和自动化部署工具：Svn/Git
+- 建模工具：Visio/PowerDesign
 
 
 ## 参考技能关键字
