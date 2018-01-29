@@ -1,0 +1,8 @@
+title: 南极光JAVA博客 GitHub.io
+description: 南极光JAVA博客
+google_analytics: 
+show_downloads: true
+theme: jekyll-theme-cayman
+
+gems:
+  - jekyll-mentions
