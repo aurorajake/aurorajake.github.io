@@ -17,4 +17,4 @@
 
 
 ## 思维导图
-### [数据结构：树](https://github.com/aurorajake/aurorajake.github.io/blob/master/思维导图/数据结构：树.md)
+### [数据结构：树](https://github.com/aurorajake/aurorajake.github.io/blob/master/思维导图/数据结构-树.md)
