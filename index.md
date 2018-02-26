@@ -9,7 +9,8 @@
   ... 待续
  
 ## 方法论
-### [我的方法论](https://github.com/aurorajake/aurorajake.github.io/blob/master/%E6%88%91%E7%9A%84%E6%96%B9%E6%B3%95%E8%AE%BA/%E6%88%91%E7%9A%84%E6%96%B9%E6%B3%95%E8%AE%BA.md)
+### [我的方法论](https://github.com/aurorajake/aurorajake.github.io/blob/master/%E6%88%91%E7%9A%84%E6%96%B9%E6%B3%95%E8%AE%BA/方法论.md)
+### [监控平台的思考](https://github.com/aurorajake/aurorajake.github.io/blob/master/%E6%88%91%E7%9A%84%E6%96%B9%E6%B3%95%E8%AE%BA/监控平台的思考.md)
 
 ## 读书计划清单
 ### [18年读书计划清单](https://github.com/aurorajake/aurorajake.github.io/blob/master/读书心得/读书计划清单.md)
